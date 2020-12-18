@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.incre-arrow{
+    margin-right: 20px;
+    color: seagreen;
+    cursor: pointer;
+}
+
+.decre-arrow{
+    margin-left: 20px;
+    color: rgb(243, 146, 146);
+    cursor: pointer;
+}
